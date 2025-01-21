@@ -105,7 +105,12 @@ yang memerlukan server (misalnya, pengambilan data melalui HTTP).
 
 - c.	JavaScript bekerja sebagai bahasa pemrograman sisi klien yang memungkinkan interaktivitas pada halaman web, seperti memproses input pengguna dan memperbarui konten tanpa perlu memuat ulang halaman.
  
-Latihan 9
+#### Latihan 9
+
+- Buatlah beberapa fungsi pemrograman sederhana dengan menggunakan javascript atas perintahdari
+asisten !
+
+**Menghitung luas pake javascript**
  
 ```
 <!DOCTYPE html>
@@ -250,35 +255,15 @@ Latihan 9
 
 #### Hasil
 
-![image](img/code8.png)
+![image](img/ss9.png)
 
 
+#### Latihan 10
+
+- Modifikasilah kode pada Latihan 4 dengan menggunakan Javascript sehingga proses formvalidation
+dapat dilakukan dengan javascript !
 
 
+![image](img/code10.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Latihan 10
-
- 
+## Selesai
