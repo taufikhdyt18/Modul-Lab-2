@@ -247,7 +247,10 @@ Latihan 9
 </body>
 </html>
 ```
- 
+
+#### Hasil
+
+![image](img/code8.png)
 
 
 
